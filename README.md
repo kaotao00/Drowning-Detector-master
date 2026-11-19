@@ -7,7 +7,6 @@ If the person´s centre is above water, the word ´DROWNING´ will be removed as
 
 Doing some research, I discovered that when someone drowns, they tend to stay in a vertical position to try to keep their head above water level. This could be analysed by seeing the ratio of height to width of the triangle to determine if the person is vertically (drowning) or horizontally (swimming or diving) positioned.
 
-This project was developed by AI Society at CLS, with the aim to help the lifeguards in the school´s swimming pool. 
 
 To install the necessary packages, run
 
